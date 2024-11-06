@@ -3,7 +3,7 @@
  * Plugin Name: STA Dynamic Booking System
  * Description: A WooCommerce-based booking system for product rentals with dynamic date-based pricing.
  * Version: 1.0.0
- * Author: Your Name
+ * Author: STA
  * Author URI: https://yourwebsite.com
  * Text Domain: sta-dbs
  */
